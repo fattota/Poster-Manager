@@ -13,6 +13,6 @@ public class Movie {
     private String movieName;
     private String genre;
     private String image;
-    //private boolean premiereTomorrow;
+
 }
 
